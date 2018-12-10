@@ -7768,7 +7768,7 @@ html {
 
 .middle {
   padding-top: 80px;
-  padding-bottom: 100px; }
+  padding-bottom: 130px; }
 
 .bottom {
   background-image: url(../img/3.jpg);
@@ -7777,7 +7777,8 @@ html {
   padding-bottom: 80px; }
 
 .final {
-  background-color: #8AFFB2; }
+  background-color: #8AFFB2;
+  padding-top: 30px; }
 
 .verde1 {
   color: #368D54; }
@@ -7790,5 +7791,8 @@ html {
 
 .branco {
   color: #ffffff; }
+
+.grande {
+  font-size: 34px; }
 
 /*# sourceMappingURL=main.css.map */
