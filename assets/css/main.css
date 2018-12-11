@@ -7772,9 +7772,9 @@ html {
 
 .bottom {
   background-image: url(../img/3.jpg);
-  background-size: cover;
-  padding-top: 80px;
-  padding-bottom: 80px; }
+  background-size: 100%;
+  padding-top: 40px;
+  padding-bottom: 30px; }
 
 .final {
   background-color: #8AFFB2;
